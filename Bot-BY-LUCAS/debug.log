@@ -1,0 +1,26 @@
+[1121/055807.893:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-MOvsaH\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1121/055807.993:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-MOvsaH\Crashpad\reports\baa640f0-0244-4d4d-904e-08b339f9df39.dmp: The system cannot find the path specified. (0x3)
+[1121/055807.993:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1121/055921.748:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1121/055921.758:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-aap3LQ\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1121/055921.777:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-aap3LQ\Crashpad\reports\1f3a66d3-5be8-4724-a97e-5d32609fe8f3.dmp: The system cannot find the path specified. (0x3)
+[1121/055921.777:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1121/063950.371:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-N5DiYE\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1121/063950.397:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-N5DiYE\Crashpad\reports\187c8630-8a95-4e43-853d-d050a8f42f6f.dmp: The system cannot find the path specified. (0x3)
+[1121/063950.397:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1121/072600.726:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-96dhEM\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1121/072600.846:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-96dhEM\Crashpad\reports\b2166de7-3b6c-4e6a-ba2f-92969743e272.dmp: The system cannot find the path specified. (0x3)
+[1121/072600.846:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1121/073239.199:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1121/073239.210:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-K6j8SD\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1121/073239.210:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-K6j8SD\Crashpad\reports\6cf39ec7-e701-40a0-beff-1f788b06e881.dmp: The system cannot find the path specified. (0x3)
+[1121/073239.210:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1124/000436.128:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-fGQ1yO\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1124/000436.175:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-fGQ1yO\Crashpad\reports\099727ec-aa5d-48f6-9c0c-d1e863cc4f4d.dmp: The system cannot find the path specified. (0x3)
+[1124/000436.175:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1124/002008.843:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-EaU2ma\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1124/002008.843:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-EaU2ma\Crashpad\reports\3c4b81e3-c1c8-4a02-afb2-5246a575e0de.dmp: The system cannot find the path specified. (0x3)
+[1124/002008.843:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1126/041937.758:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-7pxQPu\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1126/041937.806:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ibrah\AppData\Local\Temp\puppeteer_dev_chrome_profile-7pxQPu\Crashpad\reports\ea41c01d-3ae9-485d-89eb-6281287e0866.dmp: The system cannot find the path specified. (0x3)
+[1126/041937.806:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
